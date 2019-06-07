@@ -1,0 +1,28 @@
+@import url('https://fonts.googleapis.com/css?family=Anton|Lato&display=swap');
+
+h1, h2, h3 {
+  font-family: 'Anton';
+}
+  .header {
+    text-align: center;
+  }  
+  .box {
+  border: 5px solid green;
+  margin-block: auto;
+  padding: 40px;
+}
+ 
+  .color{
+    background-color: dimgray;
+  }
+
+  .grid >div {
+    display: grid;
+    box-sizing:auto;
+    border: 7px solid;
+    border-radius: 5px;
+    background-color:yellowgreen;
+    padding: 5em;
+    color: blue;
+  }
+
